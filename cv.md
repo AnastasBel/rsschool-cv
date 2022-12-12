@@ -51,3 +51,4 @@ console.log(solution(25));
 ## Languages:
 * English (level A2+) 
 * Deutsch (level A2)
+* Ukranian (level B1)
