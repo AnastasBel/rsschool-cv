@@ -49,5 +49,5 @@ console.log(solution(25));
 3. JavaScript on https://learn.javascript.ru/
 ************
 ## Languages:
-* English (level A2+) ![certificate](D:\English\TheLanguageGallery_certifikat1.pdf)
+* English (level A2+) 
 * Deutsch (level A2)
